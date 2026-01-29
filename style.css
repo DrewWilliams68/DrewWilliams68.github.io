@@ -3,13 +3,18 @@ head{
 }
 
 body{
-   text-align: center;
+    
+}
+.subtitle{
+    text-align:center;
 }
 
 cast{
-    
+    text-align:center;
     color:blue;
+    
 }
 story{
+    text-align:right;
     font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif
 }
