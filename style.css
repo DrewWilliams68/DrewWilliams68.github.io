@@ -28,12 +28,12 @@ header h1{
   display: flex;
   align-items: center;
   background-image: url('https://upload.wikimedia.org/wikipedia/commons/thumb/3/30/ChessStartingPosition.jpg/500px-ChessStartingPosition.jpg');
-  background-size:contain;
+  background-size:cover;
   background-repeat: no-repeat;
   height: 500px;
 }
 
-.subtitle{
+#subtitle{
     text-align: center;
     color:darkcyan;
 }
@@ -41,13 +41,27 @@ header h1{
   margin: 0 0 30px;
 }
 
-.jumbotron2{
+.container{
+    align-items: center;
+    background-size:auto;
+    
+}
+.container1{
+    align-items:center;
+    color:darkblue;
+    background-size:auto;
+}
+
+.container2{
     display: flex;
     align-items: center;
-    background-size:contain;
+    background-size:auto;
     background-color:beige;
-    height: 800px
+    height: 700px
 }
-story{
-    text-align:right;
+.story{
+    text-align:center;
+}
+.list{
+    text-align:left;
 }
