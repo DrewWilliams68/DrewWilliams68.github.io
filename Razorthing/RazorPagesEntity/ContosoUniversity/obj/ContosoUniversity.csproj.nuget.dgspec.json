@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj": {}
+    "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj": {
+    "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectUniqueName": "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
         "projectName": "ContosoUniversity",
-        "projectPath": "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
+        "projectPath": "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
         "packagesPath": "C:\\Users\\Thatg\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\obj\\",
+        "outputPath": "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Thatg\\AppData\\Roaming\\NuGet\\NuGet.Config"

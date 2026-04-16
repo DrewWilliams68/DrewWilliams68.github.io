@@ -6495,11 +6495,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectUniqueName": "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
       "projectName": "ContosoUniversity",
-      "projectPath": "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
+      "projectPath": "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\ContosoUniversity.csproj",
       "packagesPath": "C:\\Users\\Thatg\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\obj\\",
+      "outputPath": "c:\\Users\\Thatg\\Desktop\\Database and Web Systems\\MyfirstWebsite\\MyfirstWebsite\\Razorthing\\RazorPagesEntity\\ContosoUniversity\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Thatg\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -6997,5 +6997,27 @@
         }
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NuGet.Packaging' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "libraryId": "NuGet.Packaging",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    },
+    {
+      "code": "NU1901",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Package 'NuGet.Protocol' 6.12.1 has a known low severity vulnerability, https://github.com/advisories/GHSA-g4vj-cjjj-v7hg",
+      "libraryId": "NuGet.Protocol",
+      "targetGraphs": [
+        "net10.0"
+      ]
+    }
+  ]
 }
